@@ -40,6 +40,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
