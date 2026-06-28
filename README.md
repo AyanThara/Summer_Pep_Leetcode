@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0136-single-number) |
 ## Greedy
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
