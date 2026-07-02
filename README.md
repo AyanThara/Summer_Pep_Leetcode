@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -68,7 +70,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
