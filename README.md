@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
