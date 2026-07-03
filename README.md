@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0027-remove-element) |
@@ -78,6 +79,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
