@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -95,10 +96,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
