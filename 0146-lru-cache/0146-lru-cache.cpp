@@ -19,8 +19,7 @@ private:
         node->prev = head;
         head->next->prev = node;
         head->next = node;
-    }
-    void deleteNode(Node* node) {  // Remove node from list
+    }void deleteNode(Node* node) {  // Remove node from list
         Node* prevNode = node->prev;
         Node* nextNode = node->next;
         prevNode->next = nextNode;
