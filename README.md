@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Trie
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0086-partition-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -125,6 +127,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
