@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -155,6 +157,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
