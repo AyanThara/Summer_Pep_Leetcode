@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
 ## Sliding Window
 |  |
 | ------- |
