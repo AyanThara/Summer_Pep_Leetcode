@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -167,6 +168,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0054-spiral-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
