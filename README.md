@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
@@ -182,6 +185,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
