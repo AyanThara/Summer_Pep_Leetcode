@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
