@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
