@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3285-find-indices-of-stable-mountains](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
