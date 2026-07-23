@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Trie
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
 |  |
@@ -273,6 +277,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
