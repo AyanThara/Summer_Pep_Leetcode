@@ -1,21 +1,20 @@
-class Solution {//simple two pointer approach
+class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int left=0;//take left and start with 0 index
-        int right=height.size()-1;//take right with n-1 index
-        int ans=0;//start ans with 0
-        while(left<right){//run the loop till this condition is met
-          int h=min(height[left],height[right]);//take h variable and calculate the min among the values of left and right 
-          int w=right-left;//calcuale the width using index
-          ans=max(ans,h*w);//store in ans and take max among previous ans and current heigth and width
-          if(height[left]<height[right])//if left<right increment the left else decrement the right 
-            left++;
-          else
-          right--;
+        int left=0;
+        int right=height.size()-1;
+        int maxans=0;
+        while(left<=right){
+            int width=right-left;
+            int length=min(height[left],height[right]);
+            int ans=width*length; 
+            if(height[left]<height[right])
+               left++;
+            else{
+                right--;
+            }
+            maxans=max(ans,maxans);
         }
-        return ans;//return ans 
+     return maxans;
     }
 };
-
-
-
