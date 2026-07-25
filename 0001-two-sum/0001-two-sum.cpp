@@ -1,16 +1,15 @@
-class Solution {//brute force using two loops 
+class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[i] + nums[j] == target) {//check using two loops whether the sum of two numbers is equal to the target if yes return the pair sum
-                    return {i, j}; 
+        int sum=0;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(nums[i]+nums[j]==target){
+                    return{i,j};
                 }
             }
         }
-        return {}; 
+    return{};
     }
 };
-
-
-     
