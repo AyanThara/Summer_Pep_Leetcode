@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
 |  |
