@@ -12,7 +12,6 @@ public:
             } else { // Single element is on the left (including mid)
                 right = mid;
             }
-        }
-        return nums[left];
+        }return nums[left];
     }
 };
