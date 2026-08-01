@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +306,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
