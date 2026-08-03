@@ -1,33 +1,16 @@
-/*class Solution {
-public:
-    int peakIndexInMountainArray(vector<int>& arr) {
-        int start=0;
-        int end=arr.size()-1;
-        while(start<end){
-            int mid=start+(end-start)/2;
-            if(arr[mid]<arr[mid+1]){
-                start=mid+1;
-            }else {
-                end=mid;
-            }
-        }
-        return end; //return start or end
-    }
-};*/
-
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int start=0;
-        int end=arr.size()-1;
-        while(start<end){
-            int mid=start+(end-start)/2;
-            if(arr[mid]<arr[mid+1]){
-                start=mid+1;
-            }else{
-                end=mid;
+        int left = 0;
+        int right = arr.size() - 1;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (arr[mid] < arr[mid + 1]) {
+                left = mid + 1;
+            } else {
+                right = mid;
             }
         }
-        return end;
+        return left;
     }
 };
