@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     void reverseString(vector<char>& s) {
         int start=0;
@@ -8,5 +8,11 @@ public:
             start++;
             end--;
         }
+    }
+};*/
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+    reverse(s.begin(),s.end()); 
     }
 };
