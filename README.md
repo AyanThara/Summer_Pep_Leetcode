@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Database
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
