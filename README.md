@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
