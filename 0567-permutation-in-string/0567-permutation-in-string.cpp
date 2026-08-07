@@ -12,11 +12,11 @@ public:
         }
         if (cnt1 == cnt2)
             return true;
-        for (int i = n; i < m; i++) {
+for (int i = n; i < m; i++) {
             cnt2[s2[i] - 'a']++;
             cnt2[s2[i - n] - 'a']--;
             if (cnt1 == cnt2)
-                return true;
+                 return true;
         }
         return false;
     }
