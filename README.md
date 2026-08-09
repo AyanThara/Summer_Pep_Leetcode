@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
