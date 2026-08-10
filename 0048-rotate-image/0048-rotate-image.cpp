@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
         int n=matrix.size();//calculate the size of matrix 
@@ -8,6 +8,21 @@ public:
             }
         }for(int i=0;i<n;i++){//start a loop till n 
             reverse(matrix[i].begin(),matrix[i].end());//reverse the cols
+        }
+    }
+};*/
+
+class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                swap(matrix[i][j],matrix[j][i]);
+            }
+        }
+        for(int i=0;i<n;i++){
+            reverse(matrix[i].begin(),matrix[i].end());
         }
     }
 };
