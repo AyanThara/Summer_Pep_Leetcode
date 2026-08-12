@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -269,12 +270,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
