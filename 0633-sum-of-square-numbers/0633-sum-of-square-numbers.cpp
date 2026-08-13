@@ -5,13 +5,14 @@ public:
         long long b=sqrt(c);
         while(a<=b){
             long long ans=a*a+b*b;
-            if(ans==c){
-                return true;
-            }else if(ans<c){
-                a++;
-            }else{
+            if(ans==c)
+            return true;
+            else if(ans<c)
+            a++;
+            else{
                 b--;
             }
-        }return false;
+        }
+        return false;
     }
 };
