@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0610-triangle-judgement](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0610-triangle-judgement) |
 ## Design
 |  |
