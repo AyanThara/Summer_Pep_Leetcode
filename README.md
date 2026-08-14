@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
@@ -367,6 +370,22 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
