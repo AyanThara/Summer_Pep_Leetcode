@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
 |  |
