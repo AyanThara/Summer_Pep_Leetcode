@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
 |  |
 | ------- |
