@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0146-lru-cache) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0234-palindrome-linked-list) |
