@@ -14,7 +14,6 @@ public:
             curr = curr->next;
             if(l1 != nullptr)
                 l1 = l1->next;
-
             if(l2 != nullptr)
                 l2 = l2->next;
         }return dummy->next;
