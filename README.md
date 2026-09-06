@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Linked List
 |  |
 | ------- |
