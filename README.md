@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0392-is-subsequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
@@ -416,6 +418,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
