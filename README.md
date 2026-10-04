@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0896-monotonic-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Number Theory
