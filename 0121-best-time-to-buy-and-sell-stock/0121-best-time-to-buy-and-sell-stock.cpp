@@ -1,4 +1,4 @@
-class Solution {
+/*cass Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int bestbuy=prices[0];//start the 0th element as best buy
@@ -13,5 +13,22 @@ public:
             }
         }
        return maxprofit;//return maxprofit
+    }
+};*/
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int bestbuy=prices[0];
+        int maxprofit=0;
+        int n=prices.size();
+        for(int i=0;i<n;i++){
+          if(prices[i]>bestbuy){
+            maxprofit=max(maxprofit,prices[i]-bestbuy);
+          }else{
+            if(bestbuy>prices[i]);
+            bestbuy=min(bestbuy,prices[i]);
+          }
+        }
+        return maxprofit;
     }
 };
