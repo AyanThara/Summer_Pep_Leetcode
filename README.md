@@ -428,6 +428,10 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0070-climbing-stairs) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyanThara/Summer_Pep_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->llection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->>
